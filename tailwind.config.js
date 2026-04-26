@@ -1,5 +1,1 @@
-export default {
-  content: ['./index.html', './src/**/*.{js,jsx}'],
-  theme: { extend: { colors: { nid: { warm: '#8B5E3C', accent: '#C4873B', green: '#4A7C59' } } } },
-  plugins: [],
-}
+export default { content: ['./index.html','./src/**/*.{js,jsx}'], theme: { extend: { colors: { nid: { warm: '#8B5E3C', light: '#F5EDD8', accent: '#C4873B', soft: '#EDD9B0', green: '#4A7C59', blue: '#2D6A8F' } } } }, plugins: [] }
